@@ -8,7 +8,7 @@ td { padding: 0.2em 2em ; }
 
 </head>
 <body>
-<h1>Encuesta y Registro</h1>
+<h1>Encuesta y Registro Realizado de Tarea</h1>
 <p>Nota: Este es un formulario de ejemplo en el que los datos aquí escritos se 
 trasladan a otra página.</p>
 <form action="comprobar.php" method="post"/>
